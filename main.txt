@@ -1,0 +1,5 @@
+guancha.cn is a good website!
+
+ping -c 3 baidu.com
+
+ping -c 3 google.com
